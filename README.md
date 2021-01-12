@@ -2,6 +2,8 @@
 
 This app uses the Plaid API to connect to a sample bank account to load transactions.  This is set up with ReactJS on the front end and NodeJS/Express on the backend.<br/>
 
+Follow the instructions below, then head over to my <a href="https://catd825.medium.com/creating-a-financial-app-with-the-plaid-api-nodejs-express-and-react-4e142066eb6c">blog</a> for the remaining steps! </br>
+
 ```cd server``` and run ```npm install``` <br/>
 ```cd client``` and run ```npm install``` <br/>
 
